@@ -28,10 +28,10 @@ struct HeaderView: View {
                     .font(.system(size: 30))
                     .foregroundColor(.white)
             }
-            .padding(.top, 30)
+            .padding(.top, 80)
         }
-        .frame(width: UIScreen.main.bounds.width * 3, height: 300)
-        .offset(y: -100)
+        .frame(width: UIScreen.main.bounds.width * 3, height: 350)
+        .offset(y: -150)
     }
 }
 
