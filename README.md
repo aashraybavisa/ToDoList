@@ -47,5 +47,7 @@ Contributions are welcome! Please create a pull request with a detailed descript
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
+## Acknowledgements
+- [Afraz Siddiqui](https://www.linkedin.com/in/afrazsiddiqui/)
 
 --> Developed by [Aashray Bavisa](https://www.linkedin.com/in/aashray-bavisa/).
