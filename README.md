@@ -5,9 +5,9 @@ A simple and intuitive To-Do List application built with Swift for iOS. This app
 
 ## Screenshots
 
-Login Page           |  Register Page
-:-------------------------:|:-------------------------:
-![](screenshots/LoginPage.png)  |  ![](screenshots/LoginPage.png)
+Login Page           |  Register Page | List Page           |  New Item Page 
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](screenshots/LoginPage.png)  |  ![](screenshots/RegisterPage.png)   | ![](screenshots/ListPage.png)  |  ![](screenshots/NewItemPage.png)
 
 ## Features
 
