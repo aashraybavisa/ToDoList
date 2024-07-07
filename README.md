@@ -3,6 +3,12 @@
 
 A simple and intuitive To-Do List application built with Swift for iOS. This app allows users to manage their tasks efficiently by adding, deleting, and marking tasks as complete.
 
+## Screenshots
+
+Login Page           |  Register Page
+:-------------------------:|:-------------------------:
+![](screenshots/LoginPage.png)  |  ![](screenshots/LoginPage.png)
+
 ## Features
 
 - Add new tasks
