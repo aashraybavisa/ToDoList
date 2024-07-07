@@ -7,7 +7,7 @@ A simple and intuitive To-Do List application built with Swift for iOS. This app
 
 Login Page           |  Register Page | List Page           |  New Item Page 
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](screenshots/LoginPage.png)  |  ![](screenshots/RegisterPage.png)   | ![](screenshots/ListPage.png)  |  ![](screenshots/NewItemPage.png)
+| <img src="screenshots/LoginPage.png" width="200px"> | <img src="screenshots/RegisterPage.png" width="200px"> | <img src="screenshots/ListPage.png" width="200px"> | <img src="screenshots/NewItemPage.png" width="200px"> |
 
 ## Features
 
