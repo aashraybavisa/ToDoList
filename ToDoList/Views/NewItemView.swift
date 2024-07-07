@@ -30,7 +30,7 @@ struct NewItemView: View {
                 // Button
                 TLButton(
                     title: "Save",
-                    background: .pink
+                    background: .purple
                 ) {
                     if viewModel.canSave {
                         viewModel.save()

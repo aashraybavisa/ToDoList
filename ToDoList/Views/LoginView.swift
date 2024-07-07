@@ -17,9 +17,9 @@ struct LoginView: View {
                 // Header
                 HeaderView(
                     title: "To Do List",
-                    subtitle: "Get Things Done",
-                    angle: 15,
-                    background: .pink
+                    subtitle: "Make Goals Marked",
+                    angle: 12,
+                    background: .purple
                 )
                 
                 // Login Form
